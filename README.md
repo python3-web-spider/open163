@@ -9,4 +9,8 @@
 3. you-get # 用来下载视频
 
 ## 使用
-`python3 WanYiGongKaiKe.py`
+```
+git clone https://github.com/python3-web-spider/open163
+cd open163
+python3 WanYiGongKaiKe.py
+```
